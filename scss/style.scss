@@ -1,0 +1,18 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+canvas {
+	z-index:0;
+	position: fixed;
+ top:0;left:0
+}
+
+h1{
+	color: #000000;
+}
+
+.top{
+	z-index: 1;
+}
